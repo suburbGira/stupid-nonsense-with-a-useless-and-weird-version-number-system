@@ -1,3 +1,3 @@
-version = "78888"
+version = "69888"
 
-print("hello gnome this is version number ",version," because fuck")
+print("hello gnome this is version number",version,"because fuck")
